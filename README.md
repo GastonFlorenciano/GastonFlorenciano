@@ -1,6 +1,6 @@
-## Hola! Soy Gastón, Programador Full-Stack 👋
+# Hola! Soy Gastón, Programador Full-Stack 👋
 
-# Quién soy?
+## Quién soy?
 
 👨‍🎓 Soy egresado del bootcamp SoyHenry Full-Stack Web Developer, orientado al sector Front-End.
 
