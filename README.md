@@ -12,16 +12,16 @@
 
 ## Mis Soft y Tech Skills:
 ```
-Inglés Avanzado
+Inglés B1
 JavaScript
-- **React**
-- **Redux**
-- **CSS**
-- **BootStrap**
-- **Tailwind**
-- **PostgreSQL**
-- **NodeJS**
-- **Express.Js**
+React
+Redux
+CSS
+BootStrap
+Tailwind
+PostgreSQL
+NodeJS
+Express.Js
 
 ```
 ## Puedes contactarme:
