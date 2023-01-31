@@ -12,8 +12,8 @@
 
 ## Mis Soft y Tech Skills:
 
-- Inglés Avanzado,
-- JavaScript,
+- **Inglés Avanzado**
+- **JavaScript**
  React,
  Redux,
  CSS,
