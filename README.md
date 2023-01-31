@@ -11,19 +11,19 @@
 🔎 Actualmente estoy en búsqueda de un empleo donde pueda demostrar y explotar mis conocimientos, mientras tanto me dedico a seguir aprendiendo más y más de este rubro.
 
 ## Mis Soft y Tech Skills:
-```
-Inglés B1
-JavaScript
-React
-Redux
-CSS
-BootStrap
-Tailwind
-PostgreSQL
-NodeJS
-Express.Js
 
-```
+- Inglés B1
+- JavaScript
+- React
+- Redux
+- CSS
+- BootStrap
+- Tailwind
+- PostgreSQL
+- NodeJS
+- Express.Js
+
+
 ## Puedes contactarme:
 
 - **Correo**: gaston12f@gmail.com
