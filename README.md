@@ -14,11 +14,11 @@
 
 - **Inglés Avanzado**
 - **JavaScript**
- React,
- Redux,
- CSS,
- BootStrap,
- Tailwind,
- PostgreSQL,
- NodeJS,
- Express.Js,
+- **React**
+- **Redux**
+- **CSS**
+- **BootStrap**
+- **Tailwind**
+- **PostgreSQL**
+- **NodeJS**
+- **Express.Js**
