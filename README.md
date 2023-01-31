@@ -12,7 +12,7 @@
 
 ## Mis Soft y Tech Skills:
 
-> Inglés Avanzado
+ Inglés Avanzado
  JavaScript
  React
  Redux
@@ -21,4 +21,4 @@
  Tailwind
  PostgreSQL
  NodeJS
- Express.Js <
+ Express.Js 
