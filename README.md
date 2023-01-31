@@ -11,8 +11,8 @@
 🔎 Actualmente estoy en búsqueda de un empleo donde pueda demostrar y explotar mis conocimientos, mientras tanto me dedico a seguir aprendiendo más y más de este rubro.
 
 ## Mis Soft y Tech Skills:
-
-`- **Inglés Avanzado**
+```
+- **Inglés Avanzado**
 - **JavaScript**
 - **React**
 - **Redux**
@@ -21,8 +21,9 @@
 - **Tailwind**
 - **PostgreSQL**
 - **NodeJS**
-- **Express.Js**`
+- **Express.Js**
 
+```
 ## Puedes contactarme:
 
 - **Correo**: gaston12f@gmail.com
