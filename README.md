@@ -25,7 +25,7 @@
 
 
 ## Puedes contactarme:
-```
+
 - **Correo**: gaston12f@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/gastón-florenciano-570951238/
-```
+
