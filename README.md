@@ -12,7 +12,7 @@
 
 ## Mis Soft y Tech Skills:
 
-- Inglés B1
+- Inglés C1
 - JavaScript
 - React
 - Redux
@@ -22,6 +22,7 @@
 - PostgreSQL
 - NodeJS
 - Express.Js
+- Photoshop
 
 
 ## Puedes contactarme:
